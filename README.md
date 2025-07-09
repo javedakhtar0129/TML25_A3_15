@@ -1,8 +1,7 @@
 
 # TML25_A2_15
-# TML ASSIGNMENT 2  
-## Model Stealing in Supervised Learning
-
+# TML ASSIGNMENT 3  
+# Adversarial Robustness in Image Classification
 **Team:** 15  
 **Members:** Hina Lilaram, Javed Akhtar
 
