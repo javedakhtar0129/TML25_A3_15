@@ -1,6 +1,5 @@
-# Trustworthy Machine Learning - Adversarial Robustness with ResNet
 
-T# TML25_A2_15
+# TML25_A2_15
 # TML ASSIGNMENT 2  
 ## Model Stealing in Supervised Learning
 
