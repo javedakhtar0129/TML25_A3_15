@@ -1,5 +1,5 @@
 
-# TML25_A2_15
+# TML25_A3_15
 # TML ASSIGNMENT 3  
 # Adversarial Robustness in Image Classification
 **Team:** 15  
@@ -19,6 +19,7 @@ This repository contains our solution for Assignment 3 of the Trustworthy Machin
 - `vanilla.ipynb`: Main notebook with all code for data loading, training, evaluation, and submission.
 - `final_high_acc_model.pt`: Trained model weights for submission (not included)
 - `adversarial_training_progress.png`: Training and validation progress plots.
+- `TML25_A3_15_report.pdf`: This is the report file.
 
 
 ---
